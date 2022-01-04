@@ -9,6 +9,18 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+body::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: #1b1b1b;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #979797;
+}
+
 header {
     position: absolute;
     position: fixed;

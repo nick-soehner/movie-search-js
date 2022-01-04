@@ -1,3 +1,6 @@
-need to hide API keys 
+# Movie Seach
 
-https://gist.github.com/derzorngottes/3b57edc1f996dddcab25
+completed 1/3/2022
+
+this project was one of the first fetching and using opensource API.
+
